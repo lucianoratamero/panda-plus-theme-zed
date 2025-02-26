@@ -1,6 +1,6 @@
 {
 	"$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-	"name": "blaqat",
+	"name": "panda",
 	"author": "blaqat",
 	"themes": [
 		{
@@ -11,7 +11,6 @@
 					"#c7adfb",
 					"#e752a1",
 					"#97EE91",
-					"null",
 					"#e34f8c",
 					"#F8C275",
 					"#24e8d8",
@@ -20,7 +19,6 @@
 					"#74D6E9",
 					"#f799c7",
 					"#affa90",
-					"null",
 					"#fafaa0"
 				],
 				"border": "#919CB915",
@@ -320,7 +318,6 @@
 					"#45A9F9",
 					"#FF75B5",
 					"#19F9D8",
-					"null",
 					"#FF2C6D",
 					"#FFB86C",
 					"#B084EB",
@@ -329,7 +326,6 @@
 					"#6FC1FF",
 					"#FF9AC1",
 					"#19F9D8",
-					"null",
 					"#FFCC95"
 				],
 				"border": "#303030",
@@ -604,7 +600,6 @@
 					"#45A9F9",
 					"#ff0077",
 					"#12B69D",
-					"null",
 					"#ff0062",
 					"#FF8400",
 					"#B084EB",
@@ -613,7 +608,6 @@
 					"#0091ff",
 					"#ff629e",
 					"#12B69D",
-					"null",
 					"#ffa13c"
 				],
 				"border": null,

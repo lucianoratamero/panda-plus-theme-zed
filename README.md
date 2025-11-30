@@ -14,8 +14,8 @@ I've added a few debug colors here and there, so I remember to fix them later, s
 
 ## Preview
 ### Panda
-<img src="assets/panda-darker.png" width="670">
-<img src="assets/panda-lighter.png" width="670">
+<img src="assets/panda-darker.jpg" width="670">
+<img src="assets/panda-lighter.jpg" width="670">
 
 ## Manual Installation
 1. Copy panda-plus.json to ~/.config/zed/themes/

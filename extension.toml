@@ -1,7 +1,7 @@
-id = "panda-theme"
-name = "Panda Theme"
-version = "0.8.1"
+id = "panda-plus-theme"
+name = "Panda+ Theme"
+version = "0.1.0"
 schema_version = 1
-authors = ["blaqat <blaqat.ag@gmail.com>"]
-description = "Panda Syntax theme for Zed"
-repository = "https://github.com/biaqat/panda-theme-zed"
+authors = ["Luciano Ratamero <luciano@ratamero.com>"]
+description = "Panda themes with extra contrast for Zed"
+repository = "https://github.com/lucianoratamero/panda-plus-theme-zed"

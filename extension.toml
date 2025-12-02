@@ -1,6 +1,6 @@
 id = "panda-plus-theme"
 name = "Panda+ Theme"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Luciano Ratamero <luciano@ratamero.com>"]
 description = "Panda themes with extra contrast for Zed"
